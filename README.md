@@ -7,9 +7,9 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Demo-Gradio-FF7C00)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/bw_image_colorization.ipynb)
 
-<img src="assets/qualitative_results.png" alt="Input, baseline, U-Net, GAN and ground truth side by side" width="90%">
+
+<img src="Result.png" alt="Input, baseline, U-Net, GAN and ground truth side by side" width="90%">
 
 <sub>Columns: grayscale input → baseline CNN → U-Net → U-Net + GAN → ground truth</sub>
 
